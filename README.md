@@ -10,25 +10,12 @@
 ### Connect with me:
 dokhinanatalia@gmail.com
 
-<br />
-<br />
-
-
 http://t.me/Natalia_Dokh
 
-<br />
-<br />
-
 ### Languages and Tools:
+
 Python
 
 SQL
 
 Tableau
-
-
-
-<br />
-<br />
-
----
