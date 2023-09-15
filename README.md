@@ -8,7 +8,7 @@
 - My favorite thing in working with data is an ability to be involved in a decision making based on data analysis.
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://www.linkedin.com/in/natalia-dokhina-md-b4a5601bb/" />][linkedin]
+[linkedin]("https://www.linkedin.com/in/natalia-dokhina-md-b4a5601bb/")
 
 
 <br />
